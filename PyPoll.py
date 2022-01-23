@@ -80,11 +80,3 @@ winning_candidate_summary = (
 
 # Print out the winning candidate, vote count and percentage to terminal
 print(winning_candidate_summary)
-
-# 1. Total number of votes
-print(total_votes)
-
-# 2. Complete list of candidates
-# 3. Percentage of votes for per candiate
-# 4. Total number of votes per candidate 
-# 5. Winner of election based on popular vote
