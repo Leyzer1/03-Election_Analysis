@@ -5,17 +5,23 @@ The purpose of this anaylis to find the elections's winner by total vote count a
 
 # Election-Audit Results
 
-*Total number of votes: 369,711
+* Total number of votes: 369,711
 
-*Votes by County and Percentage of total:
-*Jefferson:  38,855 (10.5%)
-*Denver: 306,055 (82.8%) --- Largest County Turnout
-*Arapahoe: 24,801 (6.7%)
+* Votes by County and Percentage of total:
 
-*Votes recieve by Candidate and Percentage
-*Charles Casper Stockham: 85,213 (23.0%)
-*Diana DeGette: 272,892 (73.8%) --- WINNER
-*Raymond Anthony Doane: 11,606 (3.1%)
+* Jefferson:  38,855 (10.5%)
+
+* Denver: 306,055 (82.8%) --- Largest County Turnout
+
+* Arapahoe: 24,801 (6.7%)
+
+* Votes recieve by Candidate and Percentage
+
+* Charles Casper Stockham: 85,213 (23.0%)
+
+* Diana DeGette: 272,892 (73.8%) --- WINNER
+
+* Raymond Anthony Doane: 11,606 (3.1%)
   
   ![Results](https://user-images.githubusercontent.com/95899763/150726035-a3a2f916-3a2a-4377-a312-dce0b9fb871d.PNG)
  
