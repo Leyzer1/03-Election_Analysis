@@ -9,7 +9,7 @@ The purpose of this anaylis to find the elections's winner by total vote count a
 
 * Votes by County and Percentage of total:
 
-#^ Jefferson:  38,855 (10.5%)
+  * Jefferson:  38,855 (10.5%)
 
 * Denver: 306,055 (82.8%) --- Largest County Turnout
 
